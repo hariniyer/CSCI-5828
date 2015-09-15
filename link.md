@@ -3,3 +3,5 @@ Programming Paradigms
 
 
 [hi]: http://c2.com/cgi/wiki?ProgrammingParadigm
+
+[Markdown tutorial](https://help.github.com/articles/markdown-basics/)
